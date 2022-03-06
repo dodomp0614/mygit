@@ -1,0 +1,19 @@
+git init
+
+
+--branch--
+
+git branch
+git checkout 
+
+--add--
+
+git add
+git commit -m
+
+git commit -am
+
+git push 
+
+git clone
+

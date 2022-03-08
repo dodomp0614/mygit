@@ -1,19 +1,30 @@
 git init
-
+git clone "https://github.com/dodomp0614/"
 
 --branch--
 
 git branch
-git checkout 
+git checkout main
 
 --add--
 
-git add
-git commit -m
+git add *
 
-git commit -am
+git status
 
-git push 
+git commit -m "hello"
+ 
+git commit -am "existed file commit"
 
-git clone
+git remote add origin https://github.com/dodomp0614
+
+git push -u origin main
+
+--log--
+
+git show
+
+git log
+
+
 
